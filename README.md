@@ -1,3 +1,4 @@
+
 # Venom-turkey-sms-bomber
 Termux vb uygulamalar için +90 sms bomber
 
@@ -12,6 +13,8 @@ pip install colorama
 pip install requests
 
 pip install beautifulsoup4
+
+pip install bs4
 
 python venomsms.py
 
